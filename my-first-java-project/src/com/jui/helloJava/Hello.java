@@ -6,6 +6,7 @@ public class Hello {
 		
 		//打印出"你好"
 		System.out.println("你好");
+		System.out.print("你好");
 	}
 
 }
