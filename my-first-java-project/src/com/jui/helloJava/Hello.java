@@ -4,9 +4,9 @@ public class Hello {
 
 	public static void main(String[] args) {
 		
-		//¥´¦L¥X"§A¦n"
-		System.out.println("§A¦n");
-		System.out.print("§A¦n");
+		//æ‰“å°å‡º "ä½ å¥½"
+		System.out.println("ä½ å¥½");
+		System.out.print("ä½ å¥½");
 	}
 
 }
