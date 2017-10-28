@@ -1,6 +1,6 @@
 package com.jui.helloJava;
 
-public class If_practice_1 {
+public class IfPractice {
 
 	public static void main(String[] args) {
 
