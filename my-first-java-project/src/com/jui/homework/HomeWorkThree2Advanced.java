@@ -1,4 +1,4 @@
-package com.jui.test;
+package com.jui.homework;
 
 import java.util.Scanner;
 
